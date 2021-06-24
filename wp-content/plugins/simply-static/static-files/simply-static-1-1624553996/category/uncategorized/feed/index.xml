@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Test WordPress</title>
+	<atom:link href="https://ahmedsharifkhan.github.io/Testwordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ahmedsharifkhan.github.io/Testwordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 24 Jun 2021 16:59:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>This is a static website hosting by github</title>
+		<link>https://ahmedsharifkhan.github.io/Testwordpress/hello-world/</link>
+					<comments>https://ahmedsharifkhan.github.io/Testwordpress/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[testwordpress]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 16:21:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ahmedsharifkhan.github.io/Testwordpress/?p=1</guid>
+
+					<description><![CDATA[Manila is the capital of the Philippines and a highly urbanized city on the island of Luzon. It is the most densely populated city proper in the world as of 2018. The historic Spanish walled city was founded on June 24, 1571, by the Spanish conquistador Miguel López de Legazpi. This date is regarded as Manila&#8217;s official founding date, although a settlement dating back as&#8230; <a class="more-link" href="https://ahmedsharifkhan.github.io/Testwordpress/hello-world/">Continue reading <span class="screen-reader-text">This is a static website hosting by github</span></a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-table"><table><tbody><tr><td><strong><br>Manila</strong> is the capital of the Philippines and a highly urbanized city on the island of Luzon. It is the most densely populated city proper in the world as of 2018. The historic Spanish walled city was founded on June 24, 1571, by the Spanish conquistador Miguel López de Legazpi. This date is regarded as Manila&#8217;s official founding date, although a settlement dating back as far as 1258 had existed on the site. Alongside Mexico City and Madrid, Manila is considered to be one of the world&#8217;s original set of global cities due to its commercial networks being the first to traverse the Pacific Ocean; these connected Asia with the Spanish Americas, marking the first time in world history when an uninterrupted chain of trade routes circled the Earth. This map of the city proper of Manila indicates major roads, railways, parks, and points of interest, as well as portions of surrounding municipalities.</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ahmedsharifkhan.github.io/Testwordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
